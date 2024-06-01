@@ -16,10 +16,10 @@ const PricingPage = () => {
                 <SEO title="Sajid - Pricing" />
                 <div className="main-wrapper">
                     <Header />
-                    <PricingBannerContainer />
+                    {/* <PricingBannerContainer />
                     <PricingContainer />
                     <FaqContainer />
-                    <TestimonialContainer />
+                    <TestimonialContainer /> */}
                     <Footer />
                 </div>
                 <ScrollToTop />
