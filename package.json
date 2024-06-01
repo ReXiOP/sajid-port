@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "aos": "^2.3.4",
+    "cross-env": "^7.0.3",
     "disqus-react": "^1.0.11",
     "gh-pages": "^6.1.1",
     "imagesloaded": "^4.1.4",
@@ -22,12 +23,13 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint --ignore-path .eslintignore . --ext js --ext jsx",
     "lint:fix": "yarn lint --fix"
-  },
+  }
+  ,
   "eslintConfig": {
     "extends": [
       "react-app",

@@ -1,0 +1,25 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_OPTIONS = "--openssl-legacy-provider"
+
+[dev]
+  framework = "create-react-app"
+
+[context.production]
+  command = "npm run build"
+  publish = "build"
+
+[context.deploy-preview]
+  command = "npm run build"
+  publish = "build"
+
+[context.branch-deploy]
+  command = "npm run build"
+  publish = "build"
+
+[context.next]
+  command = "npm run build"
+  publish = "build"
