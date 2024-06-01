@@ -1,0 +1,36 @@
+[
+    {
+        "id": "Education",
+        "title": "Educational Background",
+        "yearOne": "",
+        "yearTwo": "",
+        "educationItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "degree": "Bachelor of Science in Computer Science",
+                "institution": "Model Institute of Science & Technology (MIST)",
+                "year": "Continue"
+            },
+            {
+                "id": 2,
+                "className": "text-danger",
+                "degree": "Higher Secondary Certificate",
+                "institution": "Shahid Tajuddin Ahmad Govt. College",
+                "year": "2021"
+            },
+            {
+                "id": 3,
+                "className": "text-success",
+                "degree": "Secondary School Certificate",
+                "institution": "Kapasia Govt. Pilot High School",
+                "year": "2019"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello!</span> I am Sajid, <br> Elevating Technology with Passion <br> and Precision.",
+        "excerpt": "See bits and pieces of my design work and prototyping on"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/project/project-1.jpg",
+            "image": "./images/project-details/project-details1.jpg"
+        },
+        "title": "Human-Detection-AI",
+        "categories": ["Python", "Flask", "Image Processing"],
+        "challenge": "Developing an AI model for human detection and removal from images.",
+        "date": "April 2023 - September 2023",
+        "team": "Solo project",
+        "service": "AI Model Development, Flask Web Application",
+        "subTitle": "Project Overview",
+        "body": [
+            "<p>This project aims to create an AI model capable of detecting humans in images and removing them. It involves extensive training of the model on various datasets and integration with Flask for web-based deployment.</p>"
+        ],
+        "quote": "“The Human-Detection-AI project has been a challenging yet rewarding endeavor. It showcases my expertise in AI and web development, offering a practical solution to image processing tasks.”",
+        "name": "Muhammad Sajid",
+        "designation": "Project Developer",
+        "gallery": {
+            "imageOne": "./images/project-details/human-detection-1.jpg",
+            "imageTwo": "./images/project-details/human-detection-2.jpg",
+            "imageThree": "./images/project-details/human-detection-3.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "",
+            "image": ""
+        },
+        "title": "Telegram-ChatBot",
+        "categories": ["Node.js", "Telegraf", "Telegram Bot"],
+        "challenge": "Developing a functional Telegram bot for user interaction and information dissemination.",
+        "date": "January 2023 - March 2023",
+        "team": "Solo project",
+        "service": "Chatbot Development, API Integration",
+        "subTitle": "Project Overview",
+        "body": [
+            "<p>The Telegram-ChatBot project involves building a versatile bot using Node.js and Telegraf library. It responds to user commands, provides information, and interacts seamlessly with Telegram users.</p>"
+        ],
+        "quote": "“Creating the Telegram-ChatBot has been an exciting journey. It demonstrates the power of chatbots in enhancing user experience and streamlining communication.”",
+        "name": "Muhammad Sajid",
+        "designation": "Project Developer",
+        "gallery": {}
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "",
+            "image": ""
+        },
+        "title": "Wordlist Maker",
+        "categories": ["C Programming", "Data Generation"],
+        "challenge": "Developing an efficient tool for generating custom wordlists for security testing purposes.",
+        "date": "June 2023 - August 2023",
+        "team": "Solo project",
+        "service": "Wordlist Generation, C Programming",
+        "subTitle": "Project Overview",
+        "body": [
+            "<p>The Wordlist Maker project focuses on creating a tool in C programming language for generating wordlists tailored for security testing. It offers flexibility and customization options for creating wordlists according to specific requirements.</p>"
+        ],
+        "quote": "“The Wordlist Maker project is a testament to my commitment to enhancing security testing capabilities. It empowers users with a powerful tool for generating custom wordlists efficiently.”",
+        "name": "Muhammad Sajid",
+        "designation": "Project Developer",
+        "gallery": {}
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "",
+            "image": ""
+        },
+        "title": "Milad-Shareef",
+        "categories": ["HTML", "CSS", "JavaScript", "Web Development"],
+        "challenge": "Designing and developing an interactive website for the Milad Shareef celebration.",
+        "date": "December 2022 - January 2023",
+        "team": "Solo project",
+        "service": "Website Design, Frontend Development",
+        "subTitle": "Project Overview",
+        "body": [
+            "<p>The Milad-Shareef project involves creating an engaging website using HTML, CSS, and JavaScript to commemorate the Milad Shareef celebration. It features interactive elements and showcases the significance of the event.</p>"
+        ],
+        "quote": "“Designing and developing the Milad-Shareef website has been a rewarding experience. It allows me to celebrate and share the joy of this auspicious occasion with the community.”",
+        "name": "Muhammad Sajid",
+        "designation": "Project Developer",
+        "gallery": {}
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "",
+            "image": ""
+        },
+        "title": "Aiyamullah-Shareef",
+        "categories": ["HTML", "CSS", "JavaScript", "Web Development"],
+        "challenge": "Creating a visually appealing website to commemorate the Aiyamullah Shareef event.",
+        "date": "February 2023 - March 2023",
+        "team": "Solo project",
+        "service": "Website Design, Frontend Development",
+        "subTitle": "Project Overview",
+        "body": [
+            "<p>The Aiyamullah-Shareef project focuses on developing a captivating website using HTML, CSS, and JavaScript to honor the Aiyamullah Shareef event. It emphasizes the significance of the occasion through engaging visuals and informative content.</p>"
+        ],
+        "quote": "“Crafting the Aiyamullah-Shareef website allows me to showcase the importance of this event and connect with the community on a deeper level. It's more than just a website; it's a platform for sharing traditions and values.”",
+        "name": "Muhammad Sajid",
+        "designation": "Project Developer",
+        "gallery": {}
+    }
+]
